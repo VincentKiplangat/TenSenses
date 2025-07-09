@@ -23,7 +23,13 @@ SECRET_KEY = "django-insecure-i4#xc4(t2g$nbu=-)n&z-j1-b-y!_a+txs_^ffjtjz-sd_-j%r
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'vincentkiplangat.engineer',
+    'www.vincentkiplangat.engineer',
+    '127.0.0.1',
+    'localhost',
+]
+
 
 
 # Application definition
